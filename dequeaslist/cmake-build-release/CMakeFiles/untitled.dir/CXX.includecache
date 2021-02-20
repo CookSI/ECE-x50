@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Owner/Desktop/School/ECE 250/untitled/dequeaslist.cpp
+iostream
+-
+string
+-
+dequeaslist.h
+/cygdrive/c/Users/Owner/Desktop/School/ECE 250/untitled/dequeaslist.h
+
+/cygdrive/c/Users/Owner/Desktop/School/ECE 250/untitled/dequeaslist.h
+string
+-
+
+/cygdrive/c/Users/Owner/Desktop/School/ECE 250/untitled/dequeaslisttest.cpp
+iostream
+-
+string
+-
+dequeaslist.h
+/cygdrive/c/Users/Owner/Desktop/School/ECE 250/untitled/dequeaslist.h
+

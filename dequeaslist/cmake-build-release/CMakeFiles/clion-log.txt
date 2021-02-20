@@ -1,0 +1,4 @@
+C:\cygwin64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_COMPILER=/usr/bin/g++.exe -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/Owner/Desktop/School/ECE 250/untitled"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Owner/Desktop/School/ECE 250/untitled/cmake-build-release
